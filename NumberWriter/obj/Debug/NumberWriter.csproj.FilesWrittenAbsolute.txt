@@ -1,5 +1,0 @@
-/home/ruzik/RiderProjects/Task_2/NumberWriter/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
-/home/ruzik/RiderProjects/Task_2/NumberWriter/bin/Debug/NumberWriter.exe.mdb
-/home/ruzik/RiderProjects/Task_2/NumberWriter/bin/Debug/NumberWriter.exe
-/home/ruzik/RiderProjects/Task_2/NumberWriter/obj/Debug/NumberWriter.exe
-/home/ruzik/RiderProjects/Task_2/NumberWriter/obj/Debug/NumberWriter.exe.mdb
